@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Dresser" or defName="Table_RoyalDresser"]/comps</xpath>
+				<value>	
+					<li Class="LWM.DeepStorage.Properties">
+						<maxNumberStacks>4</maxNumberStacks>
+						<minNumberStacks>0</minNumberStacks>
+						<maxTotalMass>4</maxTotalMass>
+						<minTimeStoringTakes>90</minTimeStoringTakes>
+						<additionalTimeEachStack>15</additionalTimeEachStack>
+						<showContents>false</showContents>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="EndTable" or defName="Table_RoyalEndTable"]/comps</xpath>
+				<value>	
+					<li Class="LWM.DeepStorage.Properties">
+						<maxNumberStacks>4</maxNumberStacks>
+						<minNumberStacks>0</minNumberStacks>
+						<maxTotalMass>1.8</maxTotalMass>
+						<minTimeStoringTakes>90</minTimeStoringTakes>
+						<additionalTimeEachStack>15</additionalTimeEachStack>
+						<showContents>false</showContents>
+					</li>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Dresser" or defName="EndTable" or defName="Table_Wardrobe" or defName="Table_RoyalDresser" or defName="Table_RoyalEndTable"]/inspectorTabs</xpath>
+				<value>
+					<li>LWM.DeepStorage.ITab_DeepStorage_Inventory</li>
+				</value>
+			</li>
+			<li Class="PatchOperationFindMod">
+				<mods>
+					<li>Vanilla Furniture Expanded</li>
+				</mods>
+				<match Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Table_Wardrobe"]/comps</xpath>
+				<value>	
+					<li Class="LWM.DeepStorage.Properties">
+						<maxNumberStacks>6</maxNumberStacks>
+						<minNumberStacks>1</minNumberStacks>
+						<maxTotalMass>8.0</maxTotalMass>
+						<minTimeStoringTakes>90</minTimeStoringTakes>
+						<additionalTimeEachStack>15</additionalTimeEachStack>
+						<showContents>false</showContents>
+					</li>
+				</value>
+				</match>
+			</li>
+		</operations>
+	</Operation>
+</Patch>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<loadFolders>
+	<v1.2>
+		<li IfModActive="LWM.DeepStorage">DeepStorage</li>
+		<li IfModActive="VanillaExpanded.VFECore">VFECore</li>
+		<li>Common</li>
+	</v1.2>
+</loadFolders>
+
+

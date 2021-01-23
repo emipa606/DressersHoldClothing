@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="Table_RoyalDresser" or defName="Table_RoyalEndTable" or defName="Table_Wardrobe"]</xpath>
+				<value>
+					<thingClass>Building_Storage</thingClass>
+					<building>
+						<preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+						<ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+						<fixedStorageSettings>
+						<filter>
+							<categories>
+								<li>Apparel</li>
+								<li>Weapons</li>
+								<li>Drugs</li>
+								<li>Textiles</li>
+							</categories>
+						</filter>
+						</fixedStorageSettings>
+						<defaultStorageSettings>
+						<priority>Preferred</priority>
+						<filter>
+							<categories>
+								<li>Apparel</li>
+							</categories>
+							<specialFiltersToDisallow>
+								<li>AllowDeadmansApparel</li>
+							</specialFiltersToDisallow>
+						</filter>
+						</defaultStorageSettings>
+					</building>
+					<inspectorTabs>
+						<li>ITab_Storage</li>
+					</inspectorTabs>	
+				</value>		
+			</li>		
+		<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Table_RoyalDresser"]/statBases/Beauty</xpath>
+			<value>
+				<Beauty>30</Beauty>
+			</value>
+		</li>			
+		<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Table_RoyalEndTable"]/statBases/Beauty</xpath>
+			<value>
+				<Beauty>18</Beauty>
+			</value>
+		</li>				
+		<li Class="PatchOperationReplace">
+			<xpath>Defs/ThingDef[defName="Table_RoyalEndTable"]/statBases/Beauty</xpath>
+			<value>
+				<Beauty>5</Beauty>
+			</value>
+		</li>	
+		</operations>
+	</Operation>
+</Patch>
