@@ -4,6 +4,7 @@
 	<v1.2>
 		<li IfModActive="LWM.DeepStorage">DeepStorage</li>
 		<li IfModActive="VanillaExpanded.VFECore">VFECore</li>
+		<li IfModActive="VanillaExpanded.VFESpacer">VFESpacer</li>
 		<li>Common</li>
 	</v1.2>
 </loadFolders>
