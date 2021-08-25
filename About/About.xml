@@ -1,14 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Dressers Hold Clothing</name>
-	<author>Cozarkian</author>
+  <name>Dressers Hold Clothing (Continued)</name>
+  <packageId>Mlie.DressersHoldClothing</packageId>
+  <author>Cozarkian</author>
+  <url>https://github.com/emipa606/DressersHoldClothing</url>
   <supportedVersions>
-		<li>1.2</li>
+    <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
-  <packageId>Cozarkian.DressersHoldClothing</packageId>
-  <description>
-Dresers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles.
-  </description>
-  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988</url>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Cozarkians mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988
+
+- Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1558635181]Gloomy Furniture[/url]
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/DressersHoldClothing][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[b]***Destroy Any Dressers and End Tables Before Adding To An Existing Game***[/b]
+
+Dressers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles. To compensate, their beauty is reduced to 3 for dressers and 2 for end tables.
+
+Integrates Vanilla Furniture Expanded - Core and Spacer
+Integrates [url=https://steamcommunity.com/sharedfiles/itemedittext/?id=2247819099]Tate's Tiny Furniture[/url]
+
+Integrated With Deep Storage
+
+[url=https://steamcommunity.com/sharedfiles/itemedittext/?id=1617282896]LWM's Deep Storage[/url] is highly recommend, as it will cause items will be stored inside the dressers and end tables instead of on top. With deep storage, capacity is:
+[list]
+[*]End Tables - Max 4 light-weight items.
+[*]Dressers - Max 8 shirts or 4 parkas, can't hold power armor.
+[*]Wardrobe (Vanilla Furniture Expanded) - Max 16 shirts or 8 parkas or 2 power armor.
+[/list]
+
+[b]***Destroy Any Dressers and End Tables Before Adding To An Existing Game***[/b]
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
 
