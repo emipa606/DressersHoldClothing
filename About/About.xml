@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Dressers Hold Clothing (Continued)</name>
   <packageId>Mlie.DressersHoldClothing</packageId>
@@ -10,13 +10,13 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Cozarkians mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988
 
 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1558635181]Gloomy Furniture[/url]
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/CN9Rs5X.png[/img]
 
 [table]
     [tr]
@@ -25,7 +25,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [b]***Destroy Any Dressers and End Tables Before Adding To An Existing Game***[/b]
 
 Dressers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles. To compensate, their beauty is reduced to 3 for dressers and 2 for end tables.
@@ -44,7 +44,7 @@ Integrated With Deep Storage
 
 [b]***Destroy Any Dressers and End Tables Before Adding To An Existing Game***[/b]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -55,4 +55,3 @@ Integrated With Deep Storage
 [/list]
 </description>
 </ModMetaData>
-

@@ -1,16 +1,16 @@
 # DressersHoldClothing
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Cozarkians mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988
 
 - Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=1558635181]Gloomy Furniture
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 *****Destroy Any Dressers and End Tables Before Adding To An Existing Game*****
 
@@ -32,7 +32,7 @@ https://steamcommunity.com/sharedfiles/itemedittext/?id=1617282896]LWM's Deep St
 
 *****Destroy Any Dressers and End Tables Before Adding To An Existing Game*****
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
