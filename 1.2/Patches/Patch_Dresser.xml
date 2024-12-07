@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationSequence">
     <operations>
@@ -31,36 +31,9 @@
               </filter>
             </defaultStorageSettings>
           </building>
-        </value>
-      </li>
-      <li Class="PatchOperationConditional">
-        <xpath>Defs/ThingDef[defName="Dresser" or defName="EndTable"]/inspectorTabs</xpath>
-        <success>Always</success>
-        <nomatch Class="PatchOperationAdd">
-          <xpath>Defs/ThingDef[defName="Dresser" or defName="EndTable"]</xpath>
-          <value>
-            <inspectorTabs>
-              <li>ITab_Storage</li>
-            </inspectorTabs>
-          </value>
-        </nomatch>
-        <match Class="PatchOperationAdd">
-          <xpath>Defs/ThingDef[defName="Dresser" or defName="EndTable"]/inspectorTabs</xpath>
-          <value>
+          <inspectorTabs>
             <li>ITab_Storage</li>
-          </value>
-        </match>
-      </li>
-      <li Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="Dresser"]/statBases/Beauty</xpath>
-        <value>
-          <Beauty>3</Beauty>
-        </value>
-      </li>
-      <li Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="EndTable"]/statBases/Beauty</xpath>
-        <value>
-          <Beauty>2</Beauty>
+          </inspectorTabs>
         </value>
       </li>
     </operations>
