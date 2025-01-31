@@ -2,25 +2,31 @@
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
-Update of Cozarkians mod
+Update of Cozars mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988
 
-- Added support for [Gloomy Furniture](https://steamcommunity.com/sharedfiles/filedetails/?id=1558635181)
-
-![Image](https://i.imgur.com/CN9Rs5X.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
 *****Destroy Any Dressers and End Tables Before Adding To An Existing Game*****
 
-Dressers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles. To compensate, their beauty is reduced to 3 for dressers and 2 for end tables.
+# Key Features
 
-Integrates Vanilla Furniture Expanded - Core and Spacer
-Integrates [Tate's Tiny Furniture](https://steamcommunity.com/sharedfiles/itemedittext/?id=2247819099)
 
-Integrated With Deep Storage
+Dressers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles.
 
-[LWM's Deep Storage](https://steamcommunity.com/sharedfiles/itemedittext/?id=1617282896) is highly recommend, as it will cause items will be stored inside the dressers and end tables instead of on top. With deep storage, capacity is:
+# Integrated Mods
+
+
+Clutter Furntiture
+Gloomy Furniture
+Medieval Furniture Overhaul
+More Furniture (cont)
+[Tate's Tiny Furniture](https://steamcommunity.com/sharedfiles/itemedittext/?id=2247819099)
+Vanilla Furniture Expanded - Core and Spacer
+
+[LWM's Deep Storage](https://steamcommunity.com/sharedfiles/itemedittext/?id=1617282896) is highly recommend, as it will cause items to be stored inside the dressers and end tables instead of on top. With deep storage, capacity is:
 
 
 - End Tables - Max 4 light-weight items.
@@ -30,7 +36,6 @@ Integrated With Deep Storage
 
 
 *****Destroy Any Dressers and End Tables Before Adding To An Existing Game*****
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 

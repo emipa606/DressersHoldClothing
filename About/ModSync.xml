@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>9a57e504-a5d9-46fe-b9de-c0f1f805c19f</ID>
   <ModName>Dressers Hold Clothing (Continued)</ModName>
-  <Version>1.5.1</Version>
+  <Version>1.5.2</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
 

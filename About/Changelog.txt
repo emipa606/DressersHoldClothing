@@ -1,4 +1,7 @@
 # Changelog for DressersHoldClothing
 
+1.5.2 - Added loadBefore [url=https://steamcommunity.com/sharedfiles/filedetails/?id=945085502][FSF] No Default Shelf Storage[/url]
+
+
 1.5.1 - Updated for 1.5, as the original seems abandoned again
 

@@ -12,32 +12,43 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
+  <loadBefore>
+    <li>FrozenSnowFox.NoDefaultShelfStorage</li>
+  </loadBefore>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
-Update of Cozarkians mod
+Update of Cozars mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988
 
-- Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1558635181]Gloomy Furniture[/url]
-
-[img]https://i.imgur.com/CN9Rs5X.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/DressersHoldClothing][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/kbYsPSO.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
 [img]https://i.imgur.com/Z4GOv8H.png[/img]
 [b]***Destroy Any Dressers and End Tables Before Adding To An Existing Game***[/b]
 
-Dressers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles. To compensate, their beauty is reduced to 3 for dressers and 2 for end tables.
+[h1]Key Features[/h1]
 
-Integrates Vanilla Furniture Expanded - Core and Spacer
-Integrates [url=https://steamcommunity.com/sharedfiles/itemedittext/?id=2247819099]Tate's Tiny Furniture[/url]
+Dressers and end tables are now storage. By default, they hold non-tainted apparel. They can  be configured to store weapons, drugs, and textiles.
 
-Integrated With Deep Storage
+[h1]Integrated Mods[/h1]
 
-[url=https://steamcommunity.com/sharedfiles/itemedittext/?id=1617282896]LWM's Deep Storage[/url] is highly recommend, as it will cause items will be stored inside the dressers and end tables instead of on top. With deep storage, capacity is:
+Clutter Furntiture
+Gloomy Furniture
+Medieval Furniture Overhaul
+More Furniture (cont)
+[url=https://steamcommunity.com/sharedfiles/itemedittext/?id=2247819099]Tate's Tiny Furniture[/url]
+Vanilla Furniture Expanded - Core and Spacer
+
+[url=https://steamcommunity.com/sharedfiles/itemedittext/?id=1617282896]LWM's Deep Storage[/url] is highly recommend, as it will cause items to be stored inside the dressers and end tables instead of on top. With deep storage, capacity is:
 [list]
 [*]End Tables - Max 4 light-weight items.
 [*]Dressers - Max 8 shirts or 4 parkas, can't hold power armor.
@@ -45,7 +56,6 @@ Integrated With Deep Storage
 [/list]
 
 [b]***Destroy Any Dressers and End Tables Before Adding To An Existing Game***[/b]
-
 [img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
@@ -58,5 +68,5 @@ Integrated With Deep Storage
 [/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2584894865][img]https://img.shields.io/github/v/release/emipa606/DressersHoldClothing?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  storage configurations</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
 </ModMetaData>
